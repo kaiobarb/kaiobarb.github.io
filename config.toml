@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "kaiobarb.github.io"
 languageCode = "en"
 title = "Liftaris | Blog"
 theme = "hugo-theme-cactus-plus"
